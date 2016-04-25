@@ -12,7 +12,8 @@ for($x = 0; $x <  $arrlength; $x++) {
      echo "<br>";
 }
 ?>
-//sorts the elements of the $numbers array in descending
+
+
 
 </body>
 </html>
